@@ -3,7 +3,7 @@
 ## Step2 : 機械学習とデータ分析入門
 
 - 7. 単回帰分析と重回帰分析
-  - \7. regression_analysis.ipynb
+  - 7.regression_analysis.ipynb
 - 8. NumPy 入門
   - 8. Numpy.ipynb
 - 9. scikit-learn 入門
